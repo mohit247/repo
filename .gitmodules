@@ -1,3 +1,6 @@
 [submodule "ejsvalidator"]
 	path = ejsvalidator
 	url = https://github.com/mohit247/ejsvalidator.git
+[submodule "repo"]
+	path = repo
+	url = https://github.com/mohit247/repo.git
